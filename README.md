@@ -1,6 +1,7 @@
 ## 👋 Hey, I'm Shivani
 
-I'm a passionate Web Developer currently training in **Laravel 12** and exploring the depth of backend development.  
+I'm a passionate Web Developer currently training in **Laravel 12** and exploring the depth of backend development.
+I like to solving real-world problems with clean logic and understanding how things work on backend side.
 I enjoy understanding how things work behind the scenes — from database structures to request lifecycle and clean logic building.
 
 ### 🚀 What I'm Doing Right Now
