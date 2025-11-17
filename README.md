@@ -13,7 +13,14 @@ I enjoy understanding how things work behind the scenes — from database struct
 ### 💡 What I Love
 - Backend logic and problem-solving  
 - Writing clean and structured code  
-- Turning ideas into working web applications  
+- Turning ideas into working web applications
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** PHP, JavaScript, SQL, Python, C++, C  
+- **Frameworks:** Laravel 12  
+- **Database:** MySQL  
+- **Tools:** Git, GitHub, Composer, VS Code  
+- **Other Skills:** MVC, Blade Templates, Routing, Session Handling 
 
 ### 🎯 Goals for This Year
 - Become confident with Laravel (Routing, Eloquent, Auth, Middleware, APIs)  
@@ -22,7 +29,7 @@ I enjoy understanding how things work behind the scenes — from database struct
 
 Feel free to check out my projects!
 
-## 🛠️ Skills & Tools
+### 🛠️ Languages & Tools
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel_12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -30,5 +37,9 @@ Feel free to check out my projects!
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
